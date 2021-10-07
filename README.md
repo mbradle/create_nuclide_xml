@@ -1,8 +1,24 @@
-# create_nuclide_xml
+# webnucleo_xml
+
+This project contains code to create and manipulate XML files for Webnucleo projects.
+
+## Jupyter notebooks
+
+### create_nuclide_xml
 
 This Jupyter notebook creates webnucleo nuclide XML data from user-supplied input.  You can run the notebook on [Google Colaboratory](https://colab.research.google.com) by clicking on the Open in Colab badge at the end of this paragraph.  You will need to sign in with your Google account.  If you receive a warning about the authorship of the notebook, you may ignore it by clicking on Run anyway.  Execute the whole notebook by clicking on Run all from the Runtime menu.  You can then change inputs or code in the notebook, as desired.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/create_nuclide_xml/blob/main/create_nuclide_xml.ipynb)
 
-Alternatively, you can run on your local computer.  To do so, once you have installed [the Jupyter Notebook](https://jupyter.org), download the linked notebook above (right-click or control-click).  To run the notebook from the command line, type, for example,
+### create_reaction_xml
+
+This Jupyter notebook creates webnucleo reaction XML data from user-supplied input.  Download the notebook onto your computer and run with [Jupyter technology](https://jupyter.org) or click on this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/create_reaction_xml/blob/main/create_reaction_xml.ipynb) to run on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index).
+
+### Running the notebooks on Binder
+
+It is also possible to run the notebooks on [Binder](https://mybinder.org).  To do so, click on the launch binder badge at the end of this paragraph.  It will take a few minutes to build the appropriate environment, but once done, you can click on any of the notebooks to launch it.  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbradle/webnucleo_xml
+
+### Running the notetbooks locally.
+
+Alternatively, you can run the notebooks on your local computer.  To do so, once you have installed [the Jupyter Notebook](https://jupyter.org), download the linked notebook above (right-click or control-click).  To run the notebook from the command line, type, for example,
 
 **jupyter notebook create_nuclide_xml.ipynb**
 
