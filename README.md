@@ -22,5 +22,5 @@ Be sure to remove any suffix that is not *.ipynb* on the notebook file you downl
 
 - **create_reaction_xml.ipynb:** Create webnucleo reaction XML data from user-supplied input.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/create_reaction_xml/blob/main/create_reaction_xml.ipynb)
 
-- **create_zone_xml.ipynb:** Create webnucleo zone XML data from user-supplied input.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/create_reaction_xml/blob/main/create_reaction_xml.ipynb)
+- **create_zone_xml.ipynb:** Create webnucleo zone XML data from user-supplied input.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/create_zone_xml/blob/main/create_zone_xml.ipynb)
 
