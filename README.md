@@ -18,7 +18,7 @@ Be sure to remove any suffix that is not *.ipynb* on the notebook file you downl
 
 ### Notebooks:
 
-- **apply_xpath.ipynb:** Create a new Webnucleo XML file by apply XPath expressions to an old Webnucleo XML file.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/webnucleo_xml/blob/main/apply_xpath.ipynb)
+- **apply_xpath.ipynb:** Create a new Webnucleo XML file by applying XPath expressions to an old Webnucleo XML file.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/webnucleo_xml/blob/main/apply_xpath.ipynb)
 
 - **create_nuclide_xml.ipynb:** Create webnucleo nuclide XML data from user-supplied input.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/webnucleo_xml/blob/main/create_nuclide_xml.ipynb)
 
