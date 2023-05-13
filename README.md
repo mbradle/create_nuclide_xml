@@ -1,6 +1,7 @@
 # webnucleo_xml
 
-This project contains code to create and manipulate XML files for Webnucleo projects.
+This project contains code to create and manipulate XML files for
+[Webnucleo](https://webnucleo.readthedocs.io) projects.
 
 ## Jupyter notebooks
 
