@@ -27,5 +27,5 @@ Be sure to remove any suffix that is not *.ipynb* on the notebook file you downl
 
 - **create_zone_xml.ipynb:** Create webnucleo zone XML data from user-supplied input.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/webnucleo_xml/blob/main/create_zone_xml.ipynb)
 
-- **remove_species.ipynb:** Remove all instances of a species from a webnucle XML file.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/webnucleo_xml/blob/main/remove_species.ipynb)
+- **remove_species.ipynb:** Remove all instances of a species from a webnucleo XML file.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/webnucleo_xml/blob/main/remove_species.ipynb)
 
